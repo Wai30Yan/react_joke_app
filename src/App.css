@@ -7,11 +7,7 @@
   align-items: center;
 }
 
-@media only screen and (max-width: 820px) {
-  .App {
-    flex-direction: column;
-  }
-}
+
 
 body {
   background-color: bisque;
@@ -22,6 +18,8 @@ body {
   display: flex;
   flex-direction: column;
   padding: 30px;
+  justify-content: center;
+  align-items: center;
 }
 
 .joke {
@@ -76,4 +74,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+@media only screen and (max-width: 820px) {
+  .App {
+    flex-direction: column;
+  }
+  .joke {
+    width: 80%;
+  }
 }
