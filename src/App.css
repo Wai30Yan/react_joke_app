@@ -83,4 +83,7 @@ body {
   .joke {
     width: 80%;
   }
+  .joke-form {
+    margin-top: 30px;
+  }
 }
