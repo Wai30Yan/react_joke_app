@@ -2,7 +2,7 @@
   "name": "react_joke_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Wai30Yan.github.io",
+  "homepage": "https://Wai30Yan.github.io/react_joke_app/",
   "dependencies": {
     "-": "^0.0.1",
     "@reduxjs/toolkit": "^1.7.1",
