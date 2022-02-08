@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.e29a5f18.css",
-    "main.js": "/static/js/main.74a61481.js",
-    "index.html": "/index.html",
-    "main.e29a5f18.css.map": "/static/css/main.e29a5f18.css.map",
-    "main.74a61481.js.map": "/static/js/main.74a61481.js.map"
+    "main.css": "/react_joke_app/static/css/main.fc720f1d.chunk.css",
+    "main.js": "/react_joke_app/static/js/main.83ec9843.chunk.js",
+    "main.js.map": "/react_joke_app/static/js/main.83ec9843.chunk.js.map",
+    "runtime-main.js": "/react_joke_app/static/js/runtime-main.77467d10.js",
+    "runtime-main.js.map": "/react_joke_app/static/js/runtime-main.77467d10.js.map",
+    "static/js/2.4ae7a89d.chunk.js": "/react_joke_app/static/js/2.4ae7a89d.chunk.js",
+    "static/js/2.4ae7a89d.chunk.js.map": "/react_joke_app/static/js/2.4ae7a89d.chunk.js.map",
+    "index.html": "/react_joke_app/index.html",
+    "precache-manifest.3f389dd0e5473c6c6b0c9edc33578e80.js": "/react_joke_app/precache-manifest.3f389dd0e5473c6c6b0c9edc33578e80.js",
+    "service-worker.js": "/react_joke_app/service-worker.js",
+    "static/css/main.fc720f1d.chunk.css.map": "/react_joke_app/static/css/main.fc720f1d.chunk.css.map",
+    "static/js/2.4ae7a89d.chunk.js.LICENSE.txt": "/react_joke_app/static/js/2.4ae7a89d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.e29a5f18.css",
-    "static/js/main.74a61481.js"
+    "static/js/runtime-main.77467d10.js",
+    "static/js/2.4ae7a89d.chunk.js",
+    "static/css/main.fc720f1d.chunk.css",
+    "static/js/main.83ec9843.chunk.js"
   ]
 }
